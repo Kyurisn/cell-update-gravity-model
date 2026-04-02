@@ -1,3 +1,21 @@
+# Information Stability Model
+
+A minimal theoretical framework connecting:
+- quantum mechanics
+- entropy
+- observation
+- gravity
+
+## Key Prediction
+ΔΓ = λgh / c²
+
+## Files
+- v1: initial idea
+- v2: refined model
+
+## Status
+Work in progress / open to feedback
+
 ## Versions
 
 - v1: Initial concept
