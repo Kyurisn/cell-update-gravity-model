@@ -1,41 +1,70 @@
-
-
-
 # Information Stability Model
 
-A minimal theoretical framework connecting:
-- quantum mechanics
-- entropy
-- observation
-- gravity
+A minimal theoretical framework where **reality emerges from stable information structures**.
 
-Minimal theoretical model connecting quantum mechanics, entropy, and gravity.
+---
 
-## Key Prediction
+## 🚀 Key Idea
+
+Physical reality is not fundamental, but arises from:
+
+* information (distinguishability)
+* stability of structures
+* entropy-driven irreversibility
+
+---
+
+## 🔑 Key Prediction
+
+This model predicts an additional gravity-dependent decoherence effect:
+
 ΔΓ = λgh / c²
 
-## Files
-- v1: initial idea
-- v2: refined model
+* Linear dependence on height (h)
+* **Not predicted by standard quantum mechanics**
 
-## Status
-Work in progress / open to feedback
+---
 
-## Versions
+## 🧪 Experimental Test
 
-- v1: Initial concept
-- v2: Extended model with dynamic cells, quantum behavior, and testability
+Same environment, different height:
 
-## Paper
+* Standard QM → no change
+* This model → decoherence changes
 
-- [v1 PDF](./cell_update_gravity_model_v1.pdf)
-- [v2 PDF](./cell_update_gravity_model_v2.pdf)
-- [v3 PDF](./cell_update_gravity_model_v3.pdf)
+→ **Clear yes/no test**
 
-## Status
+---
 
-Work in progress / exploratory theoretical model.
+## 📄 Paper
+
+* [v1 PDF](./cell_update_gravity_model_v1.pdf) — initial concept
+* [v2 PDF](./cell_update_gravity_model_v2.pdf) — extended model
+* [v3 PDF](./cell_update_gravity_model_v3.pdf) — stability + testable prediction
+
+---
+
+## 📊 Highlights
+
+* Unified view of quantum mechanics, entropy, and gravity
+* Internal origin of decoherence (χ → θ)
+* Stability-based definition of observation
+* Testable deviation from standard theory
+
+---
+
+## 📌 Status
+
+Work in progress — open to feedback and discussion.
+
+---
+
+## 🧠 Concept
+
+Reality = stable information structures
+
+---
 
 ## Notes
 
-This is an independent conceptual framework aimed at exploring alternative interpretations of spacetime, gravity, and quantum phenomena.
+This is an independent conceptual framework exploring alternative foundations of spacetime, gravity, and quantum phenomena.
