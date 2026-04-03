@@ -30,6 +30,7 @@ Work in progress / open to feedback
 
 - [v1 PDF](./cell_update_gravity_model_v1.pdf)
 - [v2 PDF](./cell_update_gravity_model_v2.pdf)
+- [v2 PDF](./cell_update_gravity_model_v3.pdf)
 
 ## Status
 
