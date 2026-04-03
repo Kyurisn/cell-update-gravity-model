@@ -1,4 +1,4 @@
-Gravity-Dependent Decoherence: A Testable Model
+## Gravity-Dependent Decoherence:A Testable Model
 An information-based framework connecting quantum mechanics, entropy, and gravity
 
 ## 📄 Paper
